@@ -1,0 +1,13 @@
+.addmovies{
+    padding-top: 90px;
+}
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    background-color: rgba(228, 236, 237, 0.853);
+}
+button{
+    border-radius: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5eff468
+}
